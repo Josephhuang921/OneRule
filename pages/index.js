@@ -13,7 +13,9 @@ export default function Home() {
       <main>
         <Header title="Welcome! Domain For Sale Now." />
         <p className="description">
-          Messagne us with Email: contact@byd.solutions
+          Messagne us with <a href= "mailto:contact@byd.solutions"> 
+    Send Email 
+</a>
         </p>
       </main>
 
