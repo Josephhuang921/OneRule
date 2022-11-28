@@ -7,6 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Domain For Sale BYD SOLUTIONS!</title>
+        <meta name="robots" content="all">
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
